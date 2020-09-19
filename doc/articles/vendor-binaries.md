@@ -107,4 +107,4 @@ Running `composer install` for this `composer.json` will result in
 all of the vendor binaries being installed in `scripts/` instead of
 `vendor/bin/`.
 
-You can set `bin-dir` to `./` to put binaries in your project root.
+You can set `bin-dir` to `./`
